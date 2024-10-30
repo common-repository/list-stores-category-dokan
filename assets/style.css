@@ -1,0 +1,18 @@
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/arrow-right.css');
+
+.showstore {
+    display: flex;
+    align-items: center;
+  }
+
+  .showstore i {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+ 
+  .showstore p:hover {
+    color: #dd3b0f;
+  }
+
